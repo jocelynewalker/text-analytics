@@ -1,6 +1,6 @@
 # text-analytics
 
-In this class, I completed three assignments and a group project
+In this class, I completed three assignments and a group project:
 
 * In Assignment 1, we analyzed Edmunds forum data identifying similar vehicle brands utilizing similarity analysis and MDS mapping
 
